@@ -6,10 +6,7 @@ package student1;
 
 import java.util.Scanner;
 
-/**
- *
- * @author huadavid
- */
+/*author huadavid*/
 public class ReverseWord {
     public static void main(String[] args) {
        /* char[] myWord = new char[7];
