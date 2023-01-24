@@ -6,6 +6,7 @@ package student1;
 
 /**
  *
+ * date: 24th Jan 2023 for Pull command
  * @author huadavid
  */
 public class Student1 {
